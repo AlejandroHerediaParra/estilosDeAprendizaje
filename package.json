@@ -10,7 +10,9 @@
     "base64-img": "^1.0.4",
     "meteor-node-stubs": "^0.3.2",
     "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "react-dom": "^16.2.0",
+    "react-mounter": "^1.2.0",
+    "underscore": "^1.9.1"
   },
   "postcss": {
     "plugins": {
